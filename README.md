@@ -7,9 +7,6 @@ This repository contains latest version of RDS deployment templates and DSC reso
 ### Reporting issues
 Microsoft Support is not handling issues for any published tools in this repository. These tools are published as is with no implied support. However, we would like to welcome you to open issues using GitHub issues to collaborate and improve these tools. You can open [an issue](https://github.com/Azure/rds-templates/issues) and add the corresponding label (like **5-RDS-on-Windows-Server**) to associate it with the appropriate tool. 
 
-
-111111111
-
 ### Branches
 
 * **master**  
